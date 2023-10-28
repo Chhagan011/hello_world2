@@ -2,4 +2,4 @@
 
 hi people. 
 i am new to github.
-Looking foeward to a great journey.
+Looking forward to a great journey.
